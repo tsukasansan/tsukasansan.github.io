@@ -49,7 +49,7 @@ Demo requires metamask installed on latest version of google chrome browser.
 
 There is a step by step manual on how to play using the official ETHLottery client.
 
-## official ETHLottery Contract
+## official ETHLottery Contract  111111111111
 
 This is the [link](https://github.com/renasboy/ETHLottery) to the official ETHLottery smart contract.
 
